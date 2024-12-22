@@ -1,2 +1,2 @@
 # tic-tac-toe
-creating tic tac toe ai bot
+creating ai opponet in tic tac toe
